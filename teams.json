@@ -236,6 +236,7 @@
     "xda_url": "https://forum.xda-developers.com/member.php?u=6237352",
     "country": "IN",
     "core_team": "true",
+    "donate_url":"http://paypal.me/psychomod",
     "devices": []
   },
   {
@@ -262,6 +263,7 @@
     "xda_url": "https://forum.xda-developers.com/member.php?u=4912374",
     "country": "IN",
     "core_team": "true",
+    "donate_url":"https://www.paypal.me/rahul9999xda",
     "devices": []
   },
   {
@@ -340,6 +342,7 @@
     "xda_url": "https://forum.xda-developers.com/member.php?u=7868666",
     "country": "IN",
     "core_team": "true",
+    "donate_url":"http://paypal.me/subinsmani",
     "devices": [
       {
         "codename": "riva",
@@ -375,6 +378,15 @@
         ]
       }
     ]
+  },
+  {
+    "full_name": "Vipin Mishra",
+    "telegram_username": "thevipinmishra",
+    "github_username": "thevipinmishra",
+    "country": "IN",
+    "core_team": "true",
+    "donate_url":"http://paypal.me/thevipinmishra",
+    "devices": []
   },
   {
     "full_name": "Wesley Jebaraj",
