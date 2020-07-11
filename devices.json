@@ -16,10 +16,6 @@
             "support":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672"
          },
          {
-            "version_code":"ten_gapps",
-            "support":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672"
-         },
-         {
             "version_code":"pie",
             "support":"https://forum.xda-developers.com/asus-zenfone-max-pro-m1/development/rom-pixysos-t3890672",
             "status":"deprecated"
@@ -43,10 +39,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -67,10 +59,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839"
-         },
-         {
-            "version_code":"ten_gapps",
             "support":"https://forum.xda-developers.com/xiaomi-redmi-4x/development/rom-pixysos-t4080839"
          },
          {
@@ -124,10 +112,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -151,10 +135,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -175,10 +155,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
@@ -244,10 +220,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -268,10 +240,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
@@ -298,10 +266,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -322,10 +286,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
@@ -352,10 +312,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -376,10 +332,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
@@ -406,10 +358,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -430,10 +378,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
@@ -460,10 +404,6 @@
             "support":""
          },
          {
-            "version_code":"ten_gapps",
-            "support":""
-         },
-         {
             "version_code":"pie",
             "support":"",
             "status":"deprecated"
@@ -484,10 +424,6 @@
       "supported_versions":[
          {
             "version_code":"ten",
-            "support":""
-         },
-         {
-            "version_code":"ten_gapps",
             "support":""
          },
          {
